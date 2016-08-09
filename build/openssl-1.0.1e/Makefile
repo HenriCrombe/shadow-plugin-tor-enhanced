@@ -13,8 +13,8 @@ SHLIB_MAJOR=1
 SHLIB_MINOR=0.0
 SHLIB_EXT=.so.$(SHLIB_MAJOR).$(SHLIB_MINOR)
 PLATFORM=linux-x86_64
-OPTIONS=--prefix=/home/tor/.shadow enable-shared enable-threads enable-ec_nistp_64_gcc_128 -fPIC -Wa,--noexecstack no-gmp no-jpake no-krb5 no-md2 no-rc5 no-rfc3779 no-sctp no-store no-zlib no-zlib-dynamic no-static-engine
-CONFIGURE_ARGS=linux-x86_64 --prefix=/home/tor/.shadow shared threads enable-ec_nistp_64_gcc_128 -fPIC -Wa,--noexecstack
+OPTIONS=--prefix=/home/blik/.shadow enable-shared enable-threads enable-ec_nistp_64_gcc_128 -fPIC -Wa,--noexecstack no-gmp no-jpake no-krb5 no-md2 no-rc5 no-rfc3779 no-sctp no-store no-zlib no-zlib-dynamic no-static-engine
+CONFIGURE_ARGS=linux-x86_64 --prefix=/home/blik/.shadow shared threads enable-ec_nistp_64_gcc_128 -fPIC -Wa,--noexecstack
 SHLIB_TARGET=linux-shared
 
 # HERE indicates where this Makefile lives.  This can be used to indicate
@@ -26,10 +26,10 @@ HERE=.
 # for, say, /usr/ and yet have everything installed to /tmp/somedir/usr/.
 # Normally it is left empty.
 INSTALL_PREFIX=
-INSTALLTOP=/home/tor/.shadow
+INSTALLTOP=/home/blik/.shadow
 
 # Do not edit this manually. Use Configure --openssldir=DIR do change this!
-OPENSSLDIR=/home/tor/.shadow/ssl
+OPENSSLDIR=/home/blik/.shadow/ssl
 
 # NO_IDEA - Define to build without the IDEA algorithm
 # NO_RC4  - Define to build without the RC4 algorithm

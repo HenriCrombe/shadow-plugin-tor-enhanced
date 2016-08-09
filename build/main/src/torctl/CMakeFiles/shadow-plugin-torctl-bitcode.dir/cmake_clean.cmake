@@ -1,4 +1,4 @@
-FILE(REMOVE_RECURSE
+file(REMOVE_RECURSE
   "torctl-main.c.bc"
   "torctl.c.bc"
   "shadow-plugin-torctl-bitcode.bc"
@@ -11,6 +11,6 @@ FILE(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-FOREACH(lang)
-  INCLUDE(CMakeFiles/shadow-plugin-torctl-bitcode.dir/cmake_clean_${lang}.cmake OPTIONAL)
-ENDFOREACH(lang)
+foreach(lang)
+  include(CMakeFiles/shadow-plugin-torctl-bitcode.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

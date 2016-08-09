@@ -1,6 +1,6 @@
-/home/tor/.shadow/plugins/libshadow-plugin-tor.so
-/home/tor/.shadow/lib/libshadow-preload-tor.so
-/home/tor/.shadow/bin/shadow-tor
-/home/tor/.shadow/share/geoip
-/home/tor/.shadow/plugins/libshadow-plugin-torctl.so
-/home/tor/.shadow/plugins/libshadow-plugin-pcap_replay.so
+/home/blik/.shadow/plugins/libshadow-plugin-tor.so
+/home/blik/.shadow/lib/libshadow-preload-tor.so
+/home/blik/.shadow/bin/shadow-tor
+/home/blik/.shadow/share/geoip
+/home/blik/.shadow/plugins/libshadow-plugin-torctl.so
+/home/blik/.shadow/plugins/libshadow-plugin-pcap_replay.so

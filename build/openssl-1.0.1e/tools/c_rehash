@@ -6,8 +6,8 @@
 
 my $openssl;
 
-my $dir = "/home/tor/.shadow/ssl";
-my $prefix = "/home/tor/.shadow";
+my $dir = "/home/blik/.shadow/ssl";
+my $prefix = "/home/blik/.shadow";
 
 if(defined $ENV{OPENSSL}) {
 	$openssl = $ENV{OPENSSL};

@@ -79,8 +79,8 @@
 
 #if !(defined(VMS) || defined(__VMS)) /* VMS uses logical names instead */
 #if defined(HEADER_CRYPTLIB_H) && !defined(OPENSSLDIR)
-#define ENGINESDIR "/home/tor/.shadow/lib/engines"
-#define OPENSSLDIR "/home/tor/.shadow/ssl"
+#define ENGINESDIR "/home/blik/.shadow/lib/engines"
+#define OPENSSLDIR "/home/blik/.shadow/ssl"
 #endif
 #endif
 

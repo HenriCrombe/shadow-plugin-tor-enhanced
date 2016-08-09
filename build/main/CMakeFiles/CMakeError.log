@@ -1,16 +1,16 @@
 Determining if the system is big endian passed with the following output:
-Change Dir: /home/tor/shadow-plugin-tor/build/main/CMakeFiles/CMakeTmp
+Change Dir: /home/blik/shadow-plugin-tor-enhanced/build/main/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec1263196034/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec1263196034.dir/build.make CMakeFiles/cmTryCompileExec1263196034.dir/build
-make[1]: Entering directory `/home/tor/shadow-plugin-tor/build/main/CMakeFiles/CMakeTmp'
-/usr/bin/cmake -E cmake_progress_report /home/tor/shadow-plugin-tor/build/main/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1263196034.dir/TestEndianess.c.o
-/usr/bin/clang   -g    -o CMakeFiles/cmTryCompileExec1263196034.dir/TestEndianess.c.o   -c /home/tor/shadow-plugin-tor/build/main/CMakeFiles/CMakeTmp/TestEndianess.c
-Linking C executable cmTryCompileExec1263196034
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1263196034.dir/link.txt --verbose=1
-/usr/bin/clang   -g     CMakeFiles/cmTryCompileExec1263196034.dir/TestEndianess.c.o  -o cmTryCompileExec1263196034 -rdynamic 
-make[1]: Leaving directory `/home/tor/shadow-plugin-tor/build/main/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTryCompileExec135402710/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec135402710.dir/build.make CMakeFiles/cmTryCompileExec135402710.dir/build
+make[1]: Entering directory '/home/blik/shadow-plugin-tor-enhanced/build/main/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/blik/shadow-plugin-tor-enhanced/build/main/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec135402710.dir/TestEndianess.c.o
+/usr/bin/clang   -g    -o CMakeFiles/cmTryCompileExec135402710.dir/TestEndianess.c.o   -c /home/blik/shadow-plugin-tor-enhanced/build/main/CMakeFiles/CMakeTmp/TestEndianess.c
+Linking C executable cmTryCompileExec135402710
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec135402710.dir/link.txt --verbose=1
+/usr/bin/clang   -g     CMakeFiles/cmTryCompileExec135402710.dir/TestEndianess.c.o  -o cmTryCompileExec135402710 -rdynamic 
+make[1]: Leaving directory '/home/blik/shadow-plugin-tor-enhanced/build/main/CMakeFiles/CMakeTmp'
 
 TestEndianess.c:
 /* A 16 bit integer is required. */
