@@ -1,0 +1,8 @@
+/home/tor/shadow-plugin-tor/build/main/CMakeFiles/LLVMHoistGlobals.dir
+/home/tor/shadow-plugin-tor/build/main/src/pcap_replay/CMakeFiles/shadow-plugin-pcap_replay.dir
+/home/tor/shadow-plugin-tor/build/main/src/pcap_replay/CMakeFiles/shadow-plugin-pcap_replay-bitcode.dir
+/home/tor/shadow-plugin-tor/build/main/src/tor/CMakeFiles/shadow-plugin-tor.dir
+/home/tor/shadow-plugin-tor/build/main/src/tor/CMakeFiles/shadow-plugin-tor-bitcode.dir
+/home/tor/shadow-plugin-tor/build/main/src/torctl/CMakeFiles/shadow-plugin-torctl.dir
+/home/tor/shadow-plugin-tor/build/main/src/torctl/CMakeFiles/shadow-plugin-torctl-bitcode.dir
+/home/tor/shadow-plugin-tor/build/main/src/tor/CMakeFiles/shadow-preload-tor.dir
