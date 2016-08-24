@@ -1,4 +1,4 @@
-# generate_edited.py
+# generate_topology.py
 
 This script is a modified version of the generate script provided with shadow. This new version of the script supports the pcap_replay plugin. Basically, the purpose of the script is to facilitate the generation of topologies based on the replay of traces between some clients and servers. In the case of our thesis, it has been used for the generation of the IRC and the SSH topology.   
 
